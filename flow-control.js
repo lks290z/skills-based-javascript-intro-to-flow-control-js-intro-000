@@ -1,4 +1,4 @@
-function basicteenager(age) 
+function basicteenager(age)
 
 }
 
